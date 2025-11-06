@@ -1,0 +1,8 @@
+{
+  "base": {
+    "translation_key": "item.surgoi.tinkering.wooden.repair.kit"
+  },
+    "components": {
+		"minecraft:stackable": 64
+	}
+}

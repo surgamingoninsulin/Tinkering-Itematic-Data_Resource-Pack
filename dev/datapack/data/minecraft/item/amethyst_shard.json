@@ -1,0 +1,10 @@
+{
+  "base": {
+    "translation_key": "item.minecraft.amethyst.shard"
+  },
+  "components": {
+		"minecraft:dye": "purple",
+		"minecraft:stackable": 64
+  }
+   
+}
