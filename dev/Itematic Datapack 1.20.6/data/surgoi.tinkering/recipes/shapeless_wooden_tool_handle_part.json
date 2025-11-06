@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tinkering toolspart",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "surgoi.tinkering:wooden_tool_handle_template"
+    },
+    {
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "id": "surgoi.tinkering:wooden_tool_handle",
+    "count": 1
+  }
+}

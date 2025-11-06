@@ -1,0 +1,29 @@
+{
+  "item.surgoi.tinkering.wooden.template": "Wooden Template",
+
+  "item.surgoi.tinkering.wooden.sword.blade.template": "Wooden Sword Blade Template",
+  "item.surgoi.tinkering.wooden.hoe.head.template": "Wooden Hoe Head Template",
+  "item.surgoi.tinkering.wooden.pickaxe.head.template": "Wooden Pickaxe Head Template",
+  "item.surgoi.tinkering.wooden.guard.template": "Wooden Guard Template",
+  "item.surgoi.tinkering.wooden.tool.binding.template": "Wooden Tool Binding Template",
+  "item.surgoi.tinkering.wooden.tool.handle.template": "Wooden Tool Handle Template",
+  "item.surgoi.tinkering.wooden.axe.head.template": "Wooden Axe Head Template",
+  
+ 
+
+  "item.surgoi.tinkering.wooden.sword.blade": "Wooden Sword Blade",
+  "item.surgoi.tinkering.wooden.hoe.head": "Wooden Hoe Head",
+  "item.surgoi.tinkering.wooden.pickaxe.head": "Wooden Pickaxe Head",
+  "item.surgoi.tinkering.wooden.tool.guard": "Wooden Guard",
+  "item.surgoi.tinkering.wooden.tool.binding": "Wooden Tool Binding",
+  "item.surgoi.tinkering.wooden.tool.handle": "Wooden Tool Handle",
+  "item.surgoi.tinkering.wooden.axe.head": "Wooden Sword Axe Head",
+  "item.surgoi.tinkering.wooden.tool.binding": "Wooden Tool Binding",
+  "item.surgoi.tinkering.wooden.repair.kit": "Wooden Repaire Kit",
+
+  "item.surgoi.tinkering.amethyst.pickaxe.head.template": "Amethyst Pickaxe Head Template",
+  
+  "item.surgoi.tinkering.amethyst.pickaxe.head": "Amethyst Pickaxe Head",
+
+  "item.surgoi.tinkering.amethyst_pickaxe": "Amethyst Pickaxe"
+}

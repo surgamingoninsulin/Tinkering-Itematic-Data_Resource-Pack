@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tinkering tool template",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "surgoi.tinkering:wooden_repair_kit_template"
+    },
+    {
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "id": "surgoi.tinkering:wooden_repair_kit",
+    "components": {},
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tinkering tool template",
+  "category": "misc",
+  "pattern": [
+    "T T",
+    " P ",
+    "T T"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "T": {
+      "item": "surgoi.tinkering:wooden_template"
+    }
+  },
+  "result": {
+    "id": "surgoi.tinkering:wooden_repair_kit",
+    "components": {},
+    "count": 1
+  }
+}
