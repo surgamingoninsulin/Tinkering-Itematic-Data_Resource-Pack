@@ -1,8 +1,0 @@
-{
-  "base": {
-    "translation_key": "item.surgoi.tinkering.wooden.sword.blade"
-  },
-    "components": {
-		"minecraft:stackable": 64
-	}
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "surgoi.tinkering:item/amethyst/amethyst_pickaxe_head"
-  }
-}
