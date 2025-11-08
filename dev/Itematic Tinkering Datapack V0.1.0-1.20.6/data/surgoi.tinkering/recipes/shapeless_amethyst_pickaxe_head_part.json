@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tinkering toolspart",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "surgoi.tinkering:amethyst_pickaxe_head_template"
+    }
+  ],
+  "result": {
+    "id": "surgoi.tinkering:amethyst_pickaxe_head",
+    "count": 1
+  }
+}

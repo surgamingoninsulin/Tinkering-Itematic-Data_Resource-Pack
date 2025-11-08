@@ -1,9 +1,0 @@
-{
-  "base": {
-    "translation_key": "item.surgoi.tinkering.wooden.axe.head"
-  },
-    "components": {
-		"minecraft:stackable": 64
-	}
-	
-}

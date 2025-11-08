@@ -1,0 +1,25 @@
+{
+	"entries": [
+		"surgoi.tinkering:wooden_template",
+		"surgoi.tinkering:wooden_tool_handle_template",
+		"surgoi.tinkering:wooden_tool_binding_template",
+		"surgoi.tinkering:wooden_pickaxe_head_template",
+		"surgoi.tinkering:wooden_axe_head_template",
+		"surgoi.tinkering:wooden_sword_blade_template",
+		"surgoi.tinkering:wooden_tool_guard_template",
+		"surgoi.tinkering:wooden_repair_kit_template",
+		
+		"surgoi.tinkering:wooden_tool_handle",
+		"surgoi.tinkering:wooden_tool_binding",
+		"surgoi.tinkering:wooden_pickaxe_head",
+		"surgoi.tinkering:wooden_axe_head",
+		"surgoi.tinkering:wooden_sword_blade",		
+		"surgoi.tinkering:wooden_repair_kit",
+		"surgoi.tinkering:wooden_tool_guard",
+		
+		"surgoi.tinkering:amethyst_pickaxe_head_template",
+		"surgoi.tinkering:amethyst_pickaxe_head"
+		
+		
+	]
+}

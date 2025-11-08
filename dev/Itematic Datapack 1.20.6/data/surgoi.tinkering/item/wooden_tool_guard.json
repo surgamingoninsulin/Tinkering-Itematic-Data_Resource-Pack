@@ -1,8 +1,0 @@
-{
-  "base": {
-    "translation_key": "item.surgoi.tinkering.wooden.tool.guard"
-  },
-    "components": {
-		"minecraft:stackable": 64
-	}
-}

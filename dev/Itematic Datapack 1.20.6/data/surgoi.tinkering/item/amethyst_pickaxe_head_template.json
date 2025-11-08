@@ -1,8 +1,0 @@
-{
-  "base": {
-    "translation_key": "item.surgoi.tinkering.amethyst.pickaxe.head.template"
-  },
-    "components": {
-		"minecraft:stackable": 64
-	}
-}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tinker tools",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " t ",
+    " t "
+  ],
+  "key": {
+    "t": {
+      "item": "surgoi.tinkering:wooden_template"
+    },
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "surgoi.tinkering:amethyst_pickaxe_head_template",
+    "count": 1
+  }
+}
